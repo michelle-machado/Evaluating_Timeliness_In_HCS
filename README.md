@@ -1,7 +1,7 @@
 # Evaluating Timely Treatment for Colorectal Cancer in Canadian Healthcare
 
 ## Project Overview
-This project assesses the timeliness of colorectal cancer (CRC) treatment in the Canadian healthcare system. Specifically, it evaluates whether patients receive treatment within six weeks (42 days) of diagnosis, an important benchmark for improving survival outcomes. The analysis uses administrative healthcare data to measure delays and identify potential disparities in treatment access.
+This project assesses the timeliness of colorectal cancer (CRC) treatment in the Canadian healthcare system. Specifically, it evaluates whether patients receive treatment within six weeks (42 days) of diagnosis, an important benchmark for improving survival outcomes. The analysis uses a simulated dataset that represents administrative healthcare data to measure delays and identify potential disparities in treatment access.
 
 ## Dataset and Variables
 The simulated dataset consists of multiple administrative files merged to capture patient demographics, diagnosis history, treatment initiation, and health outcomes.
@@ -81,4 +81,4 @@ The analysis follows a structured pipeline using **SAS**:
 
 ## Contributors
 - **Michelle Machado**  
-- EPIB675 Assignment 7 
+ 
