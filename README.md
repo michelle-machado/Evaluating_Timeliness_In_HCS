@@ -11,6 +11,7 @@ The simulated dataset consists of multiple administrative files merged to captur
 - **sd_table_death**: Healthcare coverage dates and mortality status.
 - **sd_table_diag**: Diagnosis history, including CRC and comorbid conditions.
 - **sd_table_drug**: Treatment data, including initiation dates and ATC drug codes for CRC therapies.
+- - **machado_atc.sas7bdat**: Processed dataset containing ATC-coded CRC treatments.
 
 ### Main Variables:
 - `id`: Unique patient identifier.
@@ -62,7 +63,6 @@ The analysis follows a structured pipeline using **SAS**:
 
 ## Code Files
 - `EPIB675-Machado-code.sas`: SAS script for data processing, cleaning, merging, and analysis.
-- `machado_atc.sas7bdat`: Processed dataset containing ATC-coded CRC treatments.
 
 ## Results Summary
 - A significant proportion of CRC patients experience delays in treatment initiation.
