@@ -11,7 +11,7 @@ The simulated dataset consists of multiple administrative files merged to captur
 - **sd_table_death**: Healthcare coverage dates and mortality status.
 - **sd_table_diag**: Diagnosis history, including CRC and comorbid conditions.
 - **sd_table_drug**: Treatment data, including initiation dates and ATC drug codes for CRC therapies.
-- - **machado_atc.sas7bdat**: Processed dataset containing ATC-coded CRC treatments.
+- **machado_atc.sas7bdat**: Processed dataset containing ATC-coded CRC treatments.
 
 ### Main Variables:
 - `id`: Unique patient identifier.
