@@ -576,7 +576,7 @@ run;
  p-value (0.8021). probably due to the low sample size and other rescrictions of the data*/
 
 /****************************************************************************************************************************/
-?8Looking at distributipn of patients in the within time vs not within time categories*/
+/*Looking at distributipn of patients in the within time vs not within time categories*/
 /* Create categories based on CCI scores full cohort*/
 data crc_cohort_categorized;
     set crc_cohort;
